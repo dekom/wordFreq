@@ -1,0 +1,8 @@
+* wordFreq: Word Frequency Calculator
+  Input: a text-file
+
+  Output: key: value pair where key is all words in a given text,
+  and the value is the number of times that given word exists in the
+  text.
+
+  A word is recognized as delineated by spaces, per Go's unicode.Space.
